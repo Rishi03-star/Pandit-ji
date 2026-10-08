@@ -1,0 +1,17 @@
+{
+  "name": "Pandit Ji at Your Doorstep",
+  "short_name": "Pandit Ji",
+  "description": "Book 100% Shastra-Verified Vedic Priests, Havans & Pujas Online",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdfbf7",
+  "theme_color": "#d97706",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

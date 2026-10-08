@@ -1,0 +1,11 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+Allow: /rituals
+Allow: /priests
+
+# Disallow internal auth callback endpoints if any
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://panditjionline.com/sitemap.xml
